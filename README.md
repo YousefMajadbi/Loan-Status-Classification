@@ -1,4 +1,4 @@
-# Loan-Status-Prediction
+# Loan-Status-Classification
 
 ## Objective
 In this project we are going to find the most accurate ML Classifier Algorithm whcih will be used to predict the Loan Status for new or unkown users.
